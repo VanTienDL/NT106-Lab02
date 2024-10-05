@@ -1,0 +1,16 @@
+D:\Bai Tap UIT\Picture and Text View\Picture and Text View\bin\Debug\net8.0-windows\Picture and Text View.exe
+D:\Bai Tap UIT\Picture and Text View\Picture and Text View\bin\Debug\net8.0-windows\Picture and Text View.deps.json
+D:\Bai Tap UIT\Picture and Text View\Picture and Text View\bin\Debug\net8.0-windows\Picture and Text View.runtimeconfig.json
+D:\Bai Tap UIT\Picture and Text View\Picture and Text View\bin\Debug\net8.0-windows\Picture and Text View.dll
+D:\Bai Tap UIT\Picture and Text View\Picture and Text View\bin\Debug\net8.0-windows\Picture and Text View.pdb
+D:\Bai Tap UIT\Picture and Text View\Picture and Text View\obj\Debug\net8.0-windows\Picture_and_Text_View.Form1.resources
+D:\Bai Tap UIT\Picture and Text View\Picture and Text View\obj\Debug\net8.0-windows\Picture and Text View.csproj.GenerateResource.cache
+D:\Bai Tap UIT\Picture and Text View\Picture and Text View\obj\Debug\net8.0-windows\Picture and Text View.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai Tap UIT\Picture and Text View\Picture and Text View\obj\Debug\net8.0-windows\Picture and Text View.AssemblyInfoInputs.cache
+D:\Bai Tap UIT\Picture and Text View\Picture and Text View\obj\Debug\net8.0-windows\Picture and Text View.AssemblyInfo.cs
+D:\Bai Tap UIT\Picture and Text View\Picture and Text View\obj\Debug\net8.0-windows\Picture and Text View.csproj.CoreCompileInputs.cache
+D:\Bai Tap UIT\Picture and Text View\Picture and Text View\obj\Debug\net8.0-windows\Picture and Text View.dll
+D:\Bai Tap UIT\Picture and Text View\Picture and Text View\obj\Debug\net8.0-windows\refint\Picture and Text View.dll
+D:\Bai Tap UIT\Picture and Text View\Picture and Text View\obj\Debug\net8.0-windows\Picture and Text View.pdb
+D:\Bai Tap UIT\Picture and Text View\Picture and Text View\obj\Debug\net8.0-windows\Picture and Text View.genruntimeconfig.cache
+D:\Bai Tap UIT\Picture and Text View\Picture and Text View\obj\Debug\net8.0-windows\ref\Picture and Text View.dll

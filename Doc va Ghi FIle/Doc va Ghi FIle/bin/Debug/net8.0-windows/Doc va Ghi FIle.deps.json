@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Doc va Ghi FIle/1.0.0": {
+        "runtime": {
+          "Doc va Ghi FIle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Doc va Ghi FIle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

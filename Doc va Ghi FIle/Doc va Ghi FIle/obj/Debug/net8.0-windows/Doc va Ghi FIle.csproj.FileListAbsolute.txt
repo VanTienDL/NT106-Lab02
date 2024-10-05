@@ -1,0 +1,17 @@
+D:\Bai Tap UIT\Doc va Ghi FIle\Doc va Ghi FIle\bin\Debug\net8.0-windows\Doc va Ghi FIle.exe
+D:\Bai Tap UIT\Doc va Ghi FIle\Doc va Ghi FIle\bin\Debug\net8.0-windows\Doc va Ghi FIle.deps.json
+D:\Bai Tap UIT\Doc va Ghi FIle\Doc va Ghi FIle\bin\Debug\net8.0-windows\Doc va Ghi FIle.runtimeconfig.json
+D:\Bai Tap UIT\Doc va Ghi FIle\Doc va Ghi FIle\bin\Debug\net8.0-windows\Doc va Ghi FIle.dll
+D:\Bai Tap UIT\Doc va Ghi FIle\Doc va Ghi FIle\bin\Debug\net8.0-windows\Doc va Ghi FIle.pdb
+D:\Bai Tap UIT\Doc va Ghi FIle\Doc va Ghi FIle\obj\Debug\net8.0-windows\Doc_va_Ghi_FIle.Form1.resources
+D:\Bai Tap UIT\Doc va Ghi FIle\Doc va Ghi FIle\obj\Debug\net8.0-windows\Doc va Ghi FIle.csproj.GenerateResource.cache
+D:\Bai Tap UIT\Doc va Ghi FIle\Doc va Ghi FIle\obj\Debug\net8.0-windows\Doc va Ghi FIle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai Tap UIT\Doc va Ghi FIle\Doc va Ghi FIle\obj\Debug\net8.0-windows\Doc va Ghi FIle.AssemblyInfoInputs.cache
+D:\Bai Tap UIT\Doc va Ghi FIle\Doc va Ghi FIle\obj\Debug\net8.0-windows\Doc va Ghi FIle.AssemblyInfo.cs
+D:\Bai Tap UIT\Doc va Ghi FIle\Doc va Ghi FIle\obj\Debug\net8.0-windows\Doc va Ghi FIle.csproj.CoreCompileInputs.cache
+D:\Bai Tap UIT\Doc va Ghi FIle\Doc va Ghi FIle\obj\Debug\net8.0-windows\Doc va Ghi FIle.dll
+D:\Bai Tap UIT\Doc va Ghi FIle\Doc va Ghi FIle\obj\Debug\net8.0-windows\refint\Doc va Ghi FIle.dll
+D:\Bai Tap UIT\Doc va Ghi FIle\Doc va Ghi FIle\obj\Debug\net8.0-windows\Doc va Ghi FIle.pdb
+D:\Bai Tap UIT\Doc va Ghi FIle\Doc va Ghi FIle\obj\Debug\net8.0-windows\Doc va Ghi FIle.genruntimeconfig.cache
+D:\Bai Tap UIT\Doc va Ghi FIle\Doc va Ghi FIle\obj\Debug\net8.0-windows\ref\Doc va Ghi FIle.dll
+D:\Bai Tap UIT\Doc va Ghi FIle\Doc va Ghi FIle\obj\Debug\net8.0-windows\Doc_va_Ghi_FIle.Properties.Resources.resources

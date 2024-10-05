@@ -1,0 +1,17 @@
+D:\Bai Tap UIT\Doc thong tin file\Doc thong tin file\bin\Debug\net8.0-windows\Doc thong tin file.exe
+D:\Bai Tap UIT\Doc thong tin file\Doc thong tin file\bin\Debug\net8.0-windows\Doc thong tin file.deps.json
+D:\Bai Tap UIT\Doc thong tin file\Doc thong tin file\bin\Debug\net8.0-windows\Doc thong tin file.runtimeconfig.json
+D:\Bai Tap UIT\Doc thong tin file\Doc thong tin file\bin\Debug\net8.0-windows\Doc thong tin file.dll
+D:\Bai Tap UIT\Doc thong tin file\Doc thong tin file\bin\Debug\net8.0-windows\Doc thong tin file.pdb
+D:\Bai Tap UIT\Doc thong tin file\Doc thong tin file\obj\Debug\net8.0-windows\Doc_thong_tin_file.Form1.resources
+D:\Bai Tap UIT\Doc thong tin file\Doc thong tin file\obj\Debug\net8.0-windows\Doc_thong_tin_file.Properties.Resources.resources
+D:\Bai Tap UIT\Doc thong tin file\Doc thong tin file\obj\Debug\net8.0-windows\Doc thong tin file.csproj.GenerateResource.cache
+D:\Bai Tap UIT\Doc thong tin file\Doc thong tin file\obj\Debug\net8.0-windows\Doc thong tin file.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai Tap UIT\Doc thong tin file\Doc thong tin file\obj\Debug\net8.0-windows\Doc thong tin file.AssemblyInfoInputs.cache
+D:\Bai Tap UIT\Doc thong tin file\Doc thong tin file\obj\Debug\net8.0-windows\Doc thong tin file.AssemblyInfo.cs
+D:\Bai Tap UIT\Doc thong tin file\Doc thong tin file\obj\Debug\net8.0-windows\Doc thong tin file.csproj.CoreCompileInputs.cache
+D:\Bai Tap UIT\Doc thong tin file\Doc thong tin file\obj\Debug\net8.0-windows\Doc thong tin file.dll
+D:\Bai Tap UIT\Doc thong tin file\Doc thong tin file\obj\Debug\net8.0-windows\refint\Doc thong tin file.dll
+D:\Bai Tap UIT\Doc thong tin file\Doc thong tin file\obj\Debug\net8.0-windows\Doc thong tin file.pdb
+D:\Bai Tap UIT\Doc thong tin file\Doc thong tin file\obj\Debug\net8.0-windows\Doc thong tin file.genruntimeconfig.cache
+D:\Bai Tap UIT\Doc thong tin file\Doc thong tin file\obj\Debug\net8.0-windows\ref\Doc thong tin file.dll
